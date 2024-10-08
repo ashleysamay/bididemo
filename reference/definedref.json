@@ -6,7 +6,7 @@ paths:
   /users/{userId}:
     get:
       parameters:
-        - name: userId
+        - name: userId2
           in: path
           required: true
           schema:
